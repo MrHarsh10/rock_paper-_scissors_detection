@@ -1,4 +1,4 @@
-![](C:\Users\13890\AppData\Roaming\marktext\images\2023-07-23-14-43-57-image.png)
+![](https://s2.loli.net/2023/07/23/7l85VQw3AFYyjmT.png)
 
 # 石头剪刀布检测器
 
